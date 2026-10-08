@@ -1,0 +1,6 @@
+{
+  "name": "CampusEvents",
+  "description": "Internal workspace for college event operations, team roles, task Kanban, budget, and requirements management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
